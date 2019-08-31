@@ -23,7 +23,7 @@ class CardGame
 #end
 end
 
-def self.cards_total(cards)
+# def self.cards_total(cards)
 #  total
   for card in cards
     total += card.value
